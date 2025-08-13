@@ -50,7 +50,7 @@
 <div class="section">
     <h2>Education</h2>
     <p><strong>Bachelor of Computer Applications</strong> — <strong>Your College Name</strong><br>
-    <em>Expected 2026</em> — CGPA: [Your CGPA]</p>
+    <em>4th sem 2025</em> — CGPA: [8.94]</p>
 </div>
 
 <hr>
